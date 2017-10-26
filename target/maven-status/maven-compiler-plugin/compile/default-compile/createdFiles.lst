@@ -1,0 +1,4 @@
+com/example/mapred/WordCountReducer.class
+com/example/mapred/WordCountMapper.class
+com/example/mysql/DbToHdfsSender.class
+com/example/mapred/WordCountJob.class
